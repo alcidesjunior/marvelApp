@@ -13,6 +13,7 @@
 		BEA2112F212F1AFB00FF780F /* MarvelApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BEA2112D212F1AFB00FF780F /* MarvelApp.xcdatamodeld */; };
 		BEA21131212F1AFC00FF780F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BEA21130212F1AFC00FF780F /* Assets.xcassets */; };
 		BEA21134212F1AFC00FF780F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BEA21132212F1AFC00FF780F /* LaunchScreen.storyboard */; };
+		BEA2113C212F1D3D00FF780F /* HeroeTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEA2113B212F1D3D00FF780F /* HeroeTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		BEA21130212F1AFC00FF780F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BEA21133212F1AFC00FF780F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BEA21135212F1AFC00FF780F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BEA2113B212F1D3D00FF780F /* HeroeTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroeTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				BEA21126212F1AFB00FF780F /* AppDelegate.swift */,
 				BEA21128212F1AFB00FF780F /* ViewController.swift */,
 				BEA2112A212F1AFB00FF780F /* Main.storyboard */,
+				BEA2113B212F1D3D00FF780F /* HeroeTableViewCell.swift */,
 				BEA21130212F1AFC00FF780F /* Assets.xcassets */,
 				BEA21132212F1AFC00FF780F /* LaunchScreen.storyboard */,
 				BEA21135212F1AFC00FF780F /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BEA2112F212F1AFB00FF780F /* MarvelApp.xcdatamodeld in Sources */,
+				BEA2113C212F1D3D00FF780F /* HeroeTableViewCell.swift in Sources */,
 				BEA21129212F1AFB00FF780F /* ViewController.swift in Sources */,
 				BEA21127212F1AFB00FF780F /* AppDelegate.swift in Sources */,
 			);
