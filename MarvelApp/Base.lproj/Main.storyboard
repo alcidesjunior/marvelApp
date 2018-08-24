@@ -65,10 +65,6 @@
                                         </connections>
                                     </tableViewCell>
                                 </prototypes>
-                                <connections>
-                                    <outlet property="dataSource" destination="BYZ-38-t0r" id="RSC-YJ-Aly"/>
-                                    <outlet property="delegate" destination="BYZ-38-t0r" id="Qy8-0n-hiK"/>
-                                </connections>
                             </tableView>
                         </subviews>
                         <color key="tintColor" red="1" green="0.36073330951689886" blue="0.34727430891176581" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
